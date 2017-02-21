@@ -48,28 +48,33 @@ A curated list of awesome things related to HTML5 Game Development
   - @ https://lodash.com/docs/
 
 - Socket.IO
-  - Realtime application framework, built on top of engine.io.
+  - **Realtime application framework**, built on top of engine.io.
   - *Allows server-to-client communication*
   - *Note: Servers are ran under NodeJS.*
   - @ https://socket.io/
   - @ https://github.com/socketio/socket.io
   
 - Primus
-  - Same as socket io, but with more robust plugins (check their github profile).
+  - **Same as socket io, but with more robust plugins** (check their github profile).
   - @ https://github.com/primus/primus
  
 - Primus EventEmitter3
-  - NodeJS-like event emitters, useful for event-driven code flow.
+  - **NodeJS-like event emitters**, useful for event-driven code flow.
   - @ https://github.com/primus/eventemitter3
   
 - Primus EJSON
-  - Extended JSON from MeteorJS library.
+  - **Extended JSON** from MeteorJS library.
   - *Make sure to check out docs to maximize usefullness!*
   - @ https://github.com/primus/ejson
 
 - Sat JS
-  - Simple JS library for performing 2D collision detection.
+  - Simple JS library for performing **2D collision detection**.
   - @ https://github.com/jriecken/sat-js
+  
+- HammerJS
+  - Add support for **Touch Gestures**
+  - @ https://hammerjs.github.io/
+  - @ https://github.com/hammerjs/hammer.js
  
 #### Javascript Servers
 - NodeJS & NPM @ https://nodejs.org/en/download/
