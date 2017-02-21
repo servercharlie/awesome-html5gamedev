@@ -2,13 +2,13 @@
   <br>
   <img src="http://i.imgur.com/ObPvla5.jpg" alt="awesome">
   <br>
-  ## awesome-html5gamedev
-  A curated list of awesome things related to HTML5 Game Development
   <br>
 </p>
 
+## awesome-html5gamedev
+A curated list of awesome things related to HTML5 Game Development
 
-- 
+- [Official Libraries](#Official-Libraries)
 
 ### Official Libraries
 - official libraries, sites, etc
