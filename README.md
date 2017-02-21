@@ -48,7 +48,9 @@ A curated list of awesome things related to HTML5 Game Development
 
 ### Game Genres
 
+
 <hr/>
+
 
 # Javascript: Learning The Language
 
@@ -80,6 +82,8 @@ A curated list of awesome things related to HTML5 Game Development
 
 ### Installing NodeJS & NPM
 - @ https://nodejs.org/en/download/
+
+
 
 # Javascript: Useful Libraries
 
@@ -120,23 +124,32 @@ A curated list of awesome things related to HTML5 Game Development
 
 
 
-# Creating of Desktop Clients
+# Javascript: Creating Desktop Apps
 
-- Electron
-  - Allows you to wrap your HTML5, JS & CSS codes in a desktop application.
-  - Compiles in Windows, Mac & Linux binaries.
-  - @ https://electron.atom.io/
+### Electron
+- Build cross platform desktop apps with JavaScript, HTML, and CSS
+- *Compiles in Windows, Mac & Linux binaries, more preferred than Node-Webkit*
+- @ https://electron.atom.io/
 
-- NW.js
+### Node-Webkit
+- NW.js (previously known as node-webkit) lets you call all Node.js modules directly from DOM and enables a new way of writing applications with all Web technologies.
+- @ https://nwjs.io/
+
+
+<hr/>
+
+
+# Programming: Version Control
+
+### Git
+- @ https://git-scm.com/downloads
   
-# Version Control
-- Git
-  - @ https://git-scm.com/downloads
-  
-- SourceTree
-  - 
+### SourceTree
+- 
 
-#### Code Editors
+
+
+# Programming: Code Editors
 - JetBrains WebStorm
 
 - Atom Editor
