@@ -48,7 +48,9 @@ A curated list of awesome things related to HTML5 Game Development
 
 ### Game Genres
 
-# Learning Javascript
+<hr/>
+
+# Javascript: Learning The Language
 
 ### Mozilla Developer's Network
 - Introductory
@@ -70,53 +72,51 @@ A curated list of awesome things related to HTML5 Game Development
 ### Introduction to Promises
 - @ https://developers.google.com/web/fundamentals/getting-started/primers/promises
 
-<hr/>
+# Javascript: All About NodeJS & NPM
 
-# All About NodeJS & NPM
+### What is NodeJS
 
-- What is NodeJS
+### What is NPM  
 
-- What is NPM  
+### Installing NodeJS & NPM
+- @ https://nodejs.org/en/download/
 
-- Installing NodeJS & NPM
-  - @ https://nodejs.org/en/download/
+# Javascript: Useful Libraries
 
-# Useful Javascript Libraries
+### Lodash
+- A modern JavaScript utility library delivering modularity, performance & extras.
+- *Generate random numbers, sort arrays, throttle functions, etc etc.. (check the docs!)*
+- @ https://lodash.com/
+- @ https://lodash.com/docs/
 
-- Lodash
-  - A modern JavaScript utility library delivering modularity, performance & extras.
-  - *Generate random numbers, sort arrays, throttle functions, etc etc.. (check the docs!)*
-  - @ https://lodash.com/
-  - @ https://lodash.com/docs/
-
-- Socket.IO
-  - **Realtime application framework**, built on top of engine.io.
-  - *Allows server-to-client communication*
-  - *Note: Servers are ran under NodeJS.*
-  - @ https://socket.io/
-  - @ https://github.com/socketio/socket.io
+### Socket.IO
+- **Realtime application framework**, built on top of engine.io.
+- *Allows server-to-client communication*
+- *Note: Servers are ran under NodeJS.*
+- @ https://socket.io/
+- @ https://github.com/socketio/socket.io
   
-- Primus
-  - **Same as socket io, but with more robust plugins** (check their github profile).
-  - @ https://github.com/primus/primus
+### Primus
+- **Same as socket io, but with more robust plugins** (check their github profile).
+- @ https://github.com/primus/primus
  
-- Primus EventEmitter3
-  - **NodeJS-like event emitters**, useful for event-driven code flow.
-  - @ https://github.com/primus/eventemitter3
+### Primus EventEmitter3
+- **NodeJS-like event emitters**, useful for event-driven code flow.
+- @ https://github.com/primus/eventemitter3
   
-- Primus EJSON
-  - **Extended JSON** from MeteorJS library.
-  - *Make sure to check out docs to maximize usefullness!*
-  - @ https://github.com/primus/ejson
+### Primus EJSON
+- **Extended JSON** from MeteorJS library.
+- *Make sure to check out docs to maximize usefullness!*
+- @ https://github.com/primus/ejson
 
-- Sat JS
-  - Simple JS library for performing **2D collision detection**.
-  - @ https://github.com/jriecken/sat-js
+### Sat JS
+- Simple JS library for performing **2D collision detection**.
+- @ https://github.com/jriecken/sat-js
   
-- HammerJS
-  - Add support for **Touch Gestures**
-  - @ https://hammerjs.github.io/
-  - @ https://github.com/hammerjs/hammer.js
+### HammerJS
+- Add support for **Touch Gestures**
+- @ https://hammerjs.github.io/
+- @ https://github.com/hammerjs/hammer.js
 
 
 
