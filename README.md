@@ -49,6 +49,39 @@ A curated list of awesome things related to HTML5 Game Development
 ### Game Genres
 
 
+### Game Platforms
+- *_ What are the types of platforms? _*
+  - Generally Desktop, Mobile(Smartphone & Tablets) & Browser.
+  - Ambitious people also aim for console platforms, too.
+
+- *_ What else matters? _*
+  - Supported platform versions, ie: different versions of iOS and Android (nougat, kitkat, ice cream sandwich, etc etc.).
+
+### Game Output
+- *_ ?? _*
+  - Screen sizes for different devices, frames per second, are you using canvas / webGL, etc etc.
+
+### Game Input
+- *_ ?? _*
+  - Keyboard & Mouse
+  - Screen touch gestures like taps, swipes, pinch, shake, etc.
+  - Gamepads / Controllers
+  
+  
+### Game Networking
+
+- *_ Why should I worry about networking? _*
+  - It matters when your game has to connect to the internet, ie: it has ads, or submits data to an online ranking, or connects to a server for multiplayer support, etc.
+  
+- *_ I'm making a multiplayer game, should I use TCP / UDP, Websockets / Long-Polling? _*
+  - Summary 1: TCP has more overhead than UDP, but UDP is more prone into being 'dropped' than TCP. Both has pros and cons and you can google it up (30 min read = enough to learn difference between both).
+  - Summary 2: HTTP is on top of TCP. Browsers operate on HTTP, so it's on top of TCP. Websockets are also built on top of TCP. Websockets > Long-polling, since long-polling is strenous for the servers. As of now, it means you're stuck with TCP since UDP support is only implemented in NodeJS's dgram library (hint hint: it means Desktop Clients built w/ Electron & Node-Webkit can take advantage of it).
+  - Summary 3: However, you can use various techniques to 'mask' any latency / perceivable 'lag' effects on your games.. read the referenced in-depth article below:
+  - @ https://0fps.wordpress.com/2014/02/10/replication-in-networked-games-overview-part-1/
+  - @ https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/
+  - @ https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/
+  - @ https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/
+
 <hr/>
 
 
@@ -188,5 +221,9 @@ A curated list of awesome things related to HTML5 Game Development
 - vps, dedicated servers, shared hosting 
 - virtual machines, etc.
 - server location, server latency, server hardware & bandwidth throughput / ingress/egress
-
+ - github, gitlab, bitbucket
+ - trello, slack, telegram, discord, gitter
+ - facebook, twitter
+ - game assets
+    - free and paid
 git add -A && git commit -m "Update Readme.md" && git push -u origin master
