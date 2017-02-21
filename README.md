@@ -38,13 +38,46 @@ A curated list of awesome things related to HTML5 Game Development
 	- @ 
 
 ### General Developer Tools
-- Version Control
-  - Git for Windows
-  - 
-https://git-scm.com/downloads
-| Software | Description | Compatibility |
-|:---:|
-| Software | Description | Compatibility |
+
+#### Useful Javascript Libraries
+
+- Lodash
+  - A modern JavaScript utility library delivering modularity, performance & extras.
+  - @ https://lodash.com/
+  - @ https://lodash.com/docs/
+
+- Socket.IO
+  - Realtime application framework, built on top of engine.io.
+  - @ https://socket.io/
+  - @ https://github.com/socketio/socket.io
+  
+- Primus
+  - Same as socket io, but with more robust plugins (check their github profile).
+  - @ https://github.com/primus/primus
+ 
+- Primus EventEmitter3
+  - NodeJS-like event emitters, useful for event-driven code flow.
+  - @ https://github.com/primus/eventemitter3
+  
+- Primus EJSON
+  - Extended JSON from MeteorJS library.
+  - @ https://github.com/primus/ejson
+
+- Sat JS
+  - Simple JS library for performing 2D collision detection.
+  - @ https://github.com/jriecken/sat-js
+ 
+#### Javascript Servers
+- NodeJS & NPM @ https://nodejs.org/en/download/
+
+#### Javascript Desktop Clients
+- Electron @ https://electron.atom.io/
+
+#### Version Control
+- Git @ https://git-scm.com/downloads
+
+#### Code Editors
+- Notepad ++ @ https://notepad-plus-plus.org/download/
 
 ### Miscellaneous Links
 - cordova, crosswalk, etc
@@ -70,3 +103,5 @@ https://git-scm.com/downloads
 - links to gists and demos
 - developer tools --> game developer tools
 - general developer tools (filezilla, flux, faststone, screentogif, etc)
+
+git add -A && git commit -m "Update Readme.md" && git push -u origin master
