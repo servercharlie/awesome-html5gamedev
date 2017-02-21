@@ -69,7 +69,9 @@ A curated list of awesome things related to HTML5 Game Development
   
 ### Introduction to Promises
 - @ https://developers.google.com/web/fundamentals/getting-started/primers/promises
-<br/><hr/>
+
+<hr/>
+
 # All About NodeJS & NPM
 
 - What is NodeJS
