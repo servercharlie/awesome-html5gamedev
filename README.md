@@ -39,6 +39,15 @@ A curated list of awesome things related to HTML5 Game Development
 
 ### General Developer Tools
 
+# All About Games
+
+## Game Types
+- test
+- test 
+  - test
+
+## Game Genres
+
 # Learning Javascript
 
 - Mozilla Developer's Network
