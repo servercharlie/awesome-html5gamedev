@@ -12,7 +12,8 @@ A curated list of awesome things related to HTML5 Game Development
 - [Official Examples](#official-examples)
 - [Community](#community)
 - [Tutorials](#tutorials)
-- [Developer Tools](#developer-tools)
+- [Game Developer Tools](#game-developer-tools)
+- [General Developer Tools](#general-developer-tools)
 - [Miscellaneous Links](#miscellaneous-links)
 
 ### Official Libraries
@@ -27,15 +28,31 @@ A curated list of awesome things related to HTML5 Game Development
 ### Tutorials
 - sites, vids, forum posts, etc.
 
-### Developer Tools
+### Game Developer Tools
+- Spritesheets / Texture Management
+  - Spritesheet Packer (Free / Open-source)
+    - Supported Formats: 
+	- @ 
+  - TexturePacker (Paid)
+    - Supported Formats: 
+	- @ 
+
+### General Developer Tools
+- Version Control
+  - Git for Windows
+  - 
+https://git-scm.com/downloads
+| Software | Description | Compatibility |
+|:---:|
+| Software | Description | Compatibility |
 
 ### Miscellaneous Links
 - cordova, crosswalk, etc
 - monetizing
 
-| Table Head Test |
-|:-------------:  |
-| Row Test        | 
+|Table Head Test|
+|:-------------:|
+| Row Test      | 
 
 
 ### drafted / to-include
