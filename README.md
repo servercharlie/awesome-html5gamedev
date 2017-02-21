@@ -39,6 +39,37 @@ A curated list of awesome things related to HTML5 Game Development
 
 ### General Developer Tools
 
+# Learning Javascript
+
+- Mozilla Developer's Network
+  - Introductory
+    - @ https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  - Intermediate to Advanced
+    - @ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
+
+- You Don't Know JS
+  - This is a series of books diving deep into the core mechanisms of the JavaScript language.
+  - @ https://github.com/getify/You-Dont-Know-JS
+  
+- Javascript Design Patterns
+  - Self explanatory.
+  - @ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#mixinpatternjavascript
+  
+- Single-arity Functions
+  - @ https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html
+  
+- Introduction to Promises
+  - @ https://developers.google.com/web/fundamentals/getting-started/primers/promises
+
+# All About NodeJS & NPM
+
+- What is NodeJS
+
+- What is NPM  
+
+- Installing NodeJS & NPM
+  - @ https://nodejs.org/en/download/
+
 # Useful Javascript Libraries
 
 - Lodash
@@ -75,18 +106,34 @@ A curated list of awesome things related to HTML5 Game Development
   - Add support for **Touch Gestures**
   - @ https://hammerjs.github.io/
   - @ https://github.com/hammerjs/hammer.js
- 
-#### Javascript Servers
-- NodeJS & NPM @ https://nodejs.org/en/download/
 
-#### Javascript Desktop Clients
-- Electron @ https://electron.atom.io/
 
-#### Version Control
-- Git @ https://git-scm.com/downloads
+
+# Creating of Desktop Clients
+
+- Electron
+  - Allows you to wrap your HTML5, JS & CSS codes in a desktop application.
+  - Compiles in Windows, Mac & Linux binaries.
+  - @ https://electron.atom.io/
+
+- NW.js
+  
+# Version Control
+- Git
+  - @ https://git-scm.com/downloads
+  
+- SourceTree
+  - 
 
 #### Code Editors
-- Notepad ++ @ https://notepad-plus-plus.org/download/
+- JetBrains WebStorm
+
+- Atom Editor
+
+- Notepad ++
+  - @ https://notepad-plus-plus.org/download/
+  
+- Sublime Text
 
 ### Miscellaneous Links
 - cordova, crosswalk, etc
