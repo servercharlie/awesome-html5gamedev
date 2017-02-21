@@ -39,7 +39,7 @@ A curated list of awesome things related to HTML5 Game Development
 
 ### General Developer Tools
 
-#### Useful Javascript Libraries
+# Useful Javascript Libraries
 
 - Lodash
   - A modern JavaScript utility library delivering modularity, performance & extras.
