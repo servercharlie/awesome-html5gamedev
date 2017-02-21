@@ -60,7 +60,7 @@ A curated list of awesome things related to HTML5 Game Development
 ### Game Output
 - **_WebGL or Canvas?_**
   - If you're simply aiming for desktop & browser, take advantage of WebGL if you can!
-  - If you're aiming for smartphone / mobile / tablet support, and worried about platform compatibility.. Canvas is the way to go! ( *Note: It varies greatly though, since sometimes you **may** want to take advantage of WebGL, too, ie: w/ CrossWalk* )
+  - If you're aiming for smartphone / mobile / tablet support, and worried about platform compatibility.. Canvas is the way to go! ( *Note: It varies greatly though, since sometimes you _may_ want to take advantage of WebGL, too, ie: w/ CrossWalk* )
 - **_??_**
   - Screen sizes for different devices, frames per second, are you using canvas / webGL, etc etc.
 
