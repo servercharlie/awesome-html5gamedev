@@ -8,7 +8,12 @@
 ## awesome-html5gamedev
 A curated list of awesome things related to HTML5 Game Development
 
-- [Official Libraries](#Official-Libraries)
+- [Official Libraries](#official-libraries)
+- [Official Examples](#official-examples)
+- [Community](#community)
+- [Tutorials](#tutorials)
+- [Developer Tools](#developer-tools)
+- [Miscellaneous Links](#miscellaneous-links)
 
 ### Official Libraries
 - official libraries, sites, etc
@@ -26,6 +31,7 @@ A curated list of awesome things related to HTML5 Game Development
 
 ### Miscellaneous Links
 - cordova, crosswalk, etc
+- monetizing
 
 | Table Head Test |
 |:-------------:  |
