@@ -51,3 +51,5 @@ A curated list of awesome things related to HTML5 Game Development
 - links to webgl coverage
 - links to other game engines and renderers
 - links to gists and demos
+- developer tools --> game developer tools
+- general developer tools (filezilla, flux, faststone, screentogif, etc)
