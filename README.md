@@ -58,11 +58,11 @@ A curated list of awesome things related to HTML5 Game Development
   - Supported platform versions, ie: different versions of iOS and Android (nougat, kitkat, ice cream sandwich, etc etc.).
 
 ### Game Output
+- **_??_**
+  - Screen sizes for different devices, frames per second, are you using canvas / webGL, etc etc.
 - **_WebGL or Canvas?_**
   - If you're simply aiming for desktop & browser, take advantage of WebGL if you can!
   - If you're aiming for smartphone / mobile / tablet support, and worried about platform compatibility.. Canvas is the way to go! ( *Note: It varies greatly though, since sometimes you _may_ want to take advantage of WebGL, too, ie: w/ CrossWalk* )
-- **_??_**
-  - Screen sizes for different devices, frames per second, are you using canvas / webGL, etc etc.
 
 ### Game Input
 - **_??_**
@@ -229,4 +229,6 @@ A curated list of awesome things related to HTML5 Game Development
  - facebook, twitter
  - game assets
     - free and paid
+ - cover use of browserify, babel with preset-env and uglify js w/ mangle and compress
+	
 git add -A && git commit -m "Update Readme.md" && git push -u origin master
