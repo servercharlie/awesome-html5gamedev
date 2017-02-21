@@ -50,19 +50,19 @@ A curated list of awesome things related to HTML5 Game Development
 
 
 ### Game Platforms
-- ** What are the types of platforms? **
+- **_What are the types of platforms?_**
   - Generally Desktop, Mobile(Smartphone & Tablets) & Browser.
   - Ambitious people also aim for console platforms, too.
 
-- ** What else matters? **
+- **_What else matters?_**
   - Supported platform versions, ie: different versions of iOS and Android (nougat, kitkat, ice cream sandwich, etc etc.).
 
 ### Game Output
-- ** ?? **
+- **_??_**
   - Screen sizes for different devices, frames per second, are you using canvas / webGL, etc etc.
 
 ### Game Input
-- ** ?? **
+- **_??_**
   - Keyboard & Mouse
   - Screen touch gestures like taps, swipes, pinch, shake, etc.
   - Gamepads / Controllers
@@ -70,7 +70,7 @@ A curated list of awesome things related to HTML5 Game Development
   
 ### Game Networking
 
-- ** Why should I worry about networking? **
+- **_Why should I worry about networking?_**
   - It matters when your game has to connect to the internet, ie: it has ads, or submits data to an online ranking, or connects to a server for multiplayer support, etc.
   
 - **_I'm making a multiplayer game, should I use TCP / UDP, Websockets / Long-Polling?_**
