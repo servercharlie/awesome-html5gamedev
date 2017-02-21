@@ -41,12 +41,12 @@ A curated list of awesome things related to HTML5 Game Development
 
 # All About Games
 
-## Game Types
+### Game Types
 - test
 - test 
   - test
 
-## Game Genres
+### Game Genres
 
 # Learning Javascript
 
