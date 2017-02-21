@@ -50,25 +50,25 @@ A curated list of awesome things related to HTML5 Game Development
 
 # Learning Javascript
 
-- Mozilla Developer's Network
-  - Introductory
-    - @ https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  - Intermediate to Advanced
-    - @ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
+### Mozilla Developer's Network
+- Introductory
+  - @ https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Intermediate to Advanced
+  - @ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
 
-- You Don't Know JS
-  - This is a series of books diving deep into the core mechanisms of the JavaScript language.
-  - @ https://github.com/getify/You-Dont-Know-JS
+### You Don't Know JS
+- This is a series of books diving deep into the core mechanisms of the JavaScript language.
+- @ https://github.com/getify/You-Dont-Know-JS
   
-- Javascript Design Patterns
-  - Self explanatory.
-  - @ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#mixinpatternjavascript
+### Javascript Design Patterns
+- Self explanatory.
+- @ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#mixinpatternjavascript
   
-- Single-arity Functions
-  - @ https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html
+### Single-arity Functions
+- @ https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html
   
-- Introduction to Promises
-  - @ https://developers.google.com/web/fundamentals/getting-started/primers/promises
+### Introduction to Promises
+- @ https://developers.google.com/web/fundamentals/getting-started/primers/promises
 
 # All About NodeJS & NPM
 
