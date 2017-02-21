@@ -58,6 +58,9 @@ A curated list of awesome things related to HTML5 Game Development
   - Supported platform versions, ie: different versions of iOS and Android (nougat, kitkat, ice cream sandwich, etc etc.).
 
 ### Game Output
+- **_WebGL or Canvas?_**
+  - If you're simply aiming for desktop & browser, take advantage of WebGL if you can!
+  - If you're aiming for smartphone / mobile / tablet support, and worried about platform compatibility.. Canvas is the way to go! ( *Note: It varies greatly though, since sometimes you **may** want to take advantage of WebGL, too, ie: w/ CrossWalk* )
 - **_??_**
   - Screen sizes for different devices, frames per second, are you using canvas / webGL, etc etc.
 
@@ -75,8 +78,8 @@ A curated list of awesome things related to HTML5 Game Development
   
 - **_I'm making a multiplayer game, should I use TCP / UDP, Websockets / Long-Polling?_**
   - Summary 1: TCP has more overhead than UDP, but UDP is more prone into being 'dropped' than TCP. Both has pros and cons and you can google it up (30 min read = enough to learn difference between both).
-  - Summary 2: HTTP is on top of TCP. Browsers operate on HTTP, so it's on top of TCP. Websockets are also built on top of TCP. Websockets > Long-polling, since long-polling is strenous for the servers. As of now, it means you're stuck with TCP since UDP support is only implemented in NodeJS's dgram library (hint hint: it means Desktop Clients built w/ Electron & Node-Webkit can take advantage of it).
-  - Summary 3: However, you can use various techniques to 'mask' any latency / perceivable 'lag' effects on your games.. read the referenced in-depth article below:
+  - Summary 2: HTTP is built on top of TCP. Browsers operate on HTTP, so they're on top of TCP. Websockets are also built on top of TCP. Websockets > Long-polling, since long-polling is strenous for the servers. As of now, it means you're stuck with TCP since UDP support is only implemented in NodeJS's dgram library (hint hint: it means Desktop Clients built w/ Electron & Node-Webkit can take advantage of it).
+  - Summary 3: However, you can use various techniques to 'mask' any latency / perceivable 'lag' effects on your games.. read the referenced in-depth articles below:
   - @ https://0fps.wordpress.com/2014/02/10/replication-in-networked-games-overview-part-1/
   - @ https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/
   - @ https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/
