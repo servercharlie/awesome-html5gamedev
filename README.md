@@ -36,3 +36,18 @@ A curated list of awesome things related to HTML5 Game Development
 | Table Head Test |
 |:-------------:  |
 | Row Test        | 
+
+
+### drafted / to-include
+- books
+- twitter
+- youtube channels
+- 0fps series
+- https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/
+- statistics, between desktop & mobile & tablets
+- statistics, iOS vs android
+- statistics, of ios and android versions
+- statistics, browser share, mozilla, chrome, ie, etc
+- links to webgl coverage
+- links to other game engines and renderers
+- links to gists and demos
