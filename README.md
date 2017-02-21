@@ -43,11 +43,14 @@ A curated list of awesome things related to HTML5 Game Development
 
 - Lodash
   - A modern JavaScript utility library delivering modularity, performance & extras.
+  - *Generate random numbers, sort arrays, throttle functions, etc etc.. (check the docs!)*
   - @ https://lodash.com/
   - @ https://lodash.com/docs/
 
 - Socket.IO
   - Realtime application framework, built on top of engine.io.
+  - *Allows server-to-client communication*
+  - *Note: Servers are ran under NodeJS.*
   - @ https://socket.io/
   - @ https://github.com/socketio/socket.io
   
@@ -61,6 +64,7 @@ A curated list of awesome things related to HTML5 Game Development
   
 - Primus EJSON
   - Extended JSON from MeteorJS library.
+  - *Make sure to check out docs to maximize usefullness!*
   - @ https://github.com/primus/ejson
 
 - Sat JS
@@ -103,5 +107,10 @@ A curated list of awesome things related to HTML5 Game Development
 - links to gists and demos
 - developer tools --> game developer tools
 - general developer tools (filezilla, flux, faststone, screentogif, etc)
+- guide to mmo game hosting
+- web concepts
+- vps, dedicated servers, shared hosting 
+- virtual machines, etc.
+- server location, server latency, server hardware & bandwidth throughput / ingress/egress
 
 git add -A && git commit -m "Update Readme.md" && git push -u origin master
