@@ -315,8 +315,8 @@ A curated list of awesome things related to HTML5 Game Development
   - https://developer.android.com/studio/index.html
 - Installation Notes: 
   - You might have to set the following environment variables
-    - ANDROID_HOME, set to **_your-ANDROID-SDK-directory_**
-    - ADT_HOME, set to **_your-ANDROID-SDK-directory_**
+    - ANDROID_HOME, set to **your-ANDROID-SDK-directory**
+    - ADT_HOME, set to **your-ANDROID-SDK-directory**
 	- PATH, add **your-ANDROID-SDK-directory**
 
 ### Apache Ant 
@@ -325,7 +325,7 @@ A curated list of awesome things related to HTML5 Game Development
   - *Simply get a _ZIP_ file of the latest (or a known version that works), then extract it to a local directory.*
 - Installation Notes: 
   - You might have to set the following environment variables
-    - ANT_HOME, set to **_your-Ant-directory_**
+    - ANT_HOME, set to **your-Ant-directory**
 	- PATH, add **your-Ant-directory_\bin_**
 
 ### Java Development Kit (JDK) & Java Runtime Environment (JRE)
@@ -338,7 +338,7 @@ A curated list of awesome things related to HTML5 Game Development
   - @ http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
 - Installation Notes: 
   - You might have to set the following environment variables
-    - JAVA_HOME, set to **_your-SDK-directory_**
+    - JAVA_HOME, set to **your-SDK-directory**
 	- PATH, add **your-SDK-directory_\bin_**
 
 ### Code Editors
