@@ -224,11 +224,27 @@ A curated list of awesome things related to HTML5 Game Development
 # Programming: Cordova
 
 ### What the f*ck is Cordova?
+- Apache Cordova allows you to build mobile apps with HTML, CSS & JS.
+- Allows you to target multiple platforms with one code base.
+- It's free and open source.
+
+### In layman's term?
+- Basically it's something you can use to create mobile versions of your HTML5 games.
+- By 'target multiple platforms', it means you can create versions for Android, iOS and Windows Phone.
+- Simply follow the links below to create your first cordova app.
+- Once you're done, replace the html files in the "/www/" folder of your cordova project, rebuild it, test your mobile app output and tweak your HTML5 game as it fits.
+- Note that cordova also allows you to utilize "cordova plugins", which gives you a javascript API for the native side of your mobile platforms. Ie: Allow your mobile app to access the internet, save a file, etc etc.
 
 ### Using Cordova & Visual Studio to build Android & iOS Apps
 - @ https://weblog.west-wind.com/posts/2015/jan/06/using-cordova-and-visual-studio-to-build-ios-mobile-apps#iOSsupportisExcellent
 - @ https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/
 - @ https://taco.visualstudio.com/en-us/docs/tutorial-package-publish-readme/
+
+# Programming: CrossWalk
+
+### What the f*ck is CrossWalk?
+
+### Okay, how do I use it?
 
 # Programming: Cheatsheets
 
