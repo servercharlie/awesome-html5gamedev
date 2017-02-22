@@ -400,5 +400,11 @@ A curated list of awesome things related to HTML5 Game Development
     - free and paid
  - cover use of browserify, babel with preset-env and uglify js w/ mangle and compress
  - http://www.goodboydigital.com/exclusively-everything/
+- OSX Virtual Machine Rental
+  - Useful for low-budget indie developers, in building iOS apps
+  - http://macstadium.com/
+  - https://xcloud.me/
+  - http://www.macincloud.com/
+  - https://feedback.azure.com/forums/216843-virtual-machines/suggestions/13826655-mac-os-x-virtual-machines
 	
 git add -A && git commit -m "Update Readme.md" && git push -u origin master
