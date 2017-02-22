@@ -235,8 +235,12 @@ A curated list of awesome things related to HTML5 Game Development
 - Once you're done, replace the html files in the "/www/" folder of your cordova project, rebuild it, test your mobile app output and tweak your HTML5 game as it fits.
 - Note that cordova also allows you to utilize "cordova plugins", which gives you a javascript API for the native side of your mobile platforms. Ie: Allow your mobile app to access the internet, save a file, etc etc.
 
-### Using Cordova & Visual Studio to build Android & iOS Apps
+### Building Your First Cordova App
 - @ https://cordova.apache.org/
+- @ https://cordova.apache.org/docs/en/latest/guide/cli/index.html
+- @ https://cordova.apache.org/plugins/
+
+### Using Cordova & Visual Studio to build Android & iOS Apps
 - @ https://weblog.west-wind.com/posts/2015/jan/06/using-cordova-and-visual-studio-to-build-ios-mobile-apps#iOSsupportisExcellent
 - @ https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/
 - @ https://taco.visualstudio.com/en-us/docs/tutorial-package-publish-readme/
@@ -275,6 +279,7 @@ A curated list of awesome things related to HTML5 Game Development
 | Presentation API 	| Nope | Yup |		
 | WebView Updates 	| Nope | Yup |
 
+### In layman's term?
 - Simply put, if you want to harness the power of WebGL (and helluva bunch of other features), use CrossWalk!
 
 ### Okay, how do I use it?
