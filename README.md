@@ -288,6 +288,19 @@ A curated list of awesome things related to HTML5 Game Development
 - This statistic gives information on the average cost per installation (CPI) for Android and iOS apps worldwide as of February 2017. During the measured period, the average CPI for an Android app was 0.44 U.S. dollars.
 - @ https://www.statista.com/statistics/247411/cost-per-installation-android-ios-worldwide/
 
+
+# Miscellaneous Links
+
+### Java Development Kit (JDK) & Java Runtime Environment (JRE)
+- JDK Latest Versions
+  - @ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- JRE Latest Versions
+  - @ http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+  - @ https://www.java.com/en/download/manual.jsp
+- Old Version Archive (v7 & earlier)
+  - @ http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
+
+
 ### Miscellaneous Links
 - cordova, crosswalk, etc
 - monetizing
