@@ -241,6 +241,20 @@ A curated list of awesome things related to HTML5 Game Development
 - @ https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/
 - @ https://taco.visualstudio.com/en-us/docs/tutorial-package-publish-readme/
 
+### Common Solutions to Errors (in building w/ Visual Studio)
+- Android Studio Directory
+  - ANDROID_HOME should be set to Android SDK directory. *ie: C:\AndroidStudioSDK*
+  - ADT_HOME should be set to Android SDK directory. *ie: C:\AndroidStudioSDK*
+  - ANT_HOME should be your Ant's directory. *ie: C:\Ant*
+  - JAVA_HOME should be your Java SDK's directory. *ie: C:\Program Files (x86)\Java\jdk1.8.0_121*
+  - _JAVA_OPTIONS should be "-Xmx512M" w/o quotes.
+  - PATH should contain directory for Android *ie: C:\AndroidStudioLocal\bin;C:\AndroidStudioSDK\tools;C:\Ant\bin;C:\Program Files (x86)\Java\jdk1.8.0_121\bin*
+- Your JDK & JRE version should be 1.8 instead of 1.7.
+- Your Java Development Kit's version must match your Java Runtime Environment's version. *ie: JDK v8 = JRE v8*
+- add "org.gradle.jvmargs=-XX:MaxHeapSize\=512m -Xmx512m" w/o quotes to your "project.properties" file at "%YourVisualStudioProject%\platforms\android" directory.
+- add "multiDexEnabled = true" w/o quotes to your "defaultConfig { }" section in your "build.gradle" file at "%YourVisualStudioProject%\platforms\android" directory.
+
+
 # Programming: CrossWalk
 
 ### What the f*ck is CrossWalk?
