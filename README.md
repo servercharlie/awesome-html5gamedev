@@ -328,7 +328,19 @@ A curated list of awesome things related to HTML5 Game Development
 - @ https://www.statista.com/statistics/247411/cost-per-installation-android-ios-worldwide/
 
 
-# Miscellaneous Links
+# Programming: Links To Tools, Development Kits, Runtimes, Etc.
+
+### Android Studio
+- Android Studio Latest
+  - https://developer.android.com/studio/index.html
+- Installation Notes: 
+  - Android SDK's, etc.
+
+### Apache Ant 
+- Ant Build Tool Binaries
+  - @ http://www.apache.org/dist/ant/binaries/
+  - *Simply get a _ZIP_ file of the latest (or a known version that works), then extract it to a local directory.*
+- Installation Notes: 
 
 ### Java Development Kit (JDK) & Java Runtime Environment (JRE)
 - JDK Latest Versions
@@ -338,6 +350,7 @@ A curated list of awesome things related to HTML5 Game Development
   - @ https://www.java.com/en/download/manual.jsp
 - Old Version Archive (v7 & earlier)
   - @ http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
+- Installation Notes: 
 
 
 ### Miscellaneous Links
