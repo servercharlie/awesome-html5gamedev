@@ -49,12 +49,18 @@ A curated list of awesome things related to HTML5 Game Development
 ### Game Genres
 
 
+### Game Engines, Renderer Engines
+
+
+### Physics
+
+
 ### Game Platforms
 - **_What are the types of platforms?_**
   - Desktop (Windows, Mac, Linux)
   - Smartphones, and Tablets (Android, iOS, Windows Phone, etc.)
   - Desktop Browsers (Chrome, Firefox, Safari, Opera, Internet Explorer & Edge)
-  - Consoles, such as Xbox One, PS4, Wii U, 3DS, etc.
+  - Consoles, such as Xbox One, Xbox 360, PS3, PS4, PS Vita, Wii U, New 3DS, etc.
 
 - **_Supported platform versions_**
   - Ask yourself, do you want your game to run only in new versions of iOS and Android, or also on older versions?
@@ -276,6 +282,6 @@ A curated list of awesome things related to HTML5 Game Development
  - game assets
     - free and paid
  - cover use of browserify, babel with preset-env and uglify js w/ mangle and compress
- - 
+ - http://www.goodboydigital.com/exclusively-everything/
 	
 git add -A && git commit -m "Update Readme.md" && git push -u origin master
