@@ -212,16 +212,27 @@ A curated list of awesome things related to HTML5 Game Development
 
 
 # Programming: Code Editors
-- JetBrains WebStorm
 
-- Atom Editor
+- Atom Editor (Free, Open-source)
+  - A hackable text editor.
+  - @ https://atom.io/
+  - @ https://atom.io/packages
+  - @ https://atom.io/themes
 
-- Notepad ++
+- Notepad ++ (Free, Open-source)
+  - A minimal / open-source text editor.
   - @ https://notepad-plus-plus.org/download/
-  
-- Sublime Text
 
-# Programming: Cordova
+- JetBrains WebStorm (Paid, Licensed)
+  - A lightweight yet powerful JavaScript IDE, perfectly equipped for client-side development and server-side development with Node.js.
+  - Great TypeScript support!
+  - @ https://www.jetbrains.com/webstorm/
+  
+- Sublime Text (Paid, Licensed)
+  - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+  - @ https://www.sublimetext.com/
+
+# Programming: Apache Cordova
 
 ### What the f*ck is Cordova?
 - Apache Cordova allows you to build mobile apps with HTML, CSS & JS.
@@ -260,9 +271,9 @@ A curated list of awesome things related to HTML5 Game Development
 - Always Build->Clean your project before building it.
 
 
-# Programming: CrossWalk
+# Programming: The Crosswalk Project
 
-### What the f*ck is CrossWalk?
+### What the f*ck is Crosswalk?
 - The CrossWalk enables you to use the most advanced web innovations in your Android and Cordova apps.
 - From the crosswalk-project.org homepage:
   - **Include the Crosswalk Project web runtime with your hybrid Android or Cordova / PhoneGap app, and users will consistently see it through a predictable, powerful WebView based on _Google Chromium_.**
