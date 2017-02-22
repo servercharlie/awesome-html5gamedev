@@ -253,6 +253,7 @@ A curated list of awesome things related to HTML5 Game Development
 - Your Java Development Kit's version must match your Java Runtime Environment's version. *ie: JDK v8 = JRE v8*
 - add "org.gradle.jvmargs=-XX:MaxHeapSize\=512m -Xmx512m" w/o quotes to your "project.properties" file at "%YourVisualStudioProject%\platforms\android" directory.
 - add "multiDexEnabled = true" w/o quotes to your "defaultConfig { }" section in your "build.gradle" file at "%YourVisualStudioProject%\platforms\android" directory.
+- Always Build->Clean your project before building it.
 
 
 # Programming: CrossWalk
