@@ -211,26 +211,6 @@ A curated list of awesome things related to HTML5 Game Development
 
 
 
-# Programming: Code Editors
-
-- Atom Editor (Free, Open-source)
-  - A hackable text editor.
-  - @ https://atom.io/
-  - @ https://atom.io/packages
-  - @ https://atom.io/themes
-
-- Notepad ++ (Free, Open-source)
-  - A minimal / open-source text editor.
-  - @ https://notepad-plus-plus.org/download/
-
-- JetBrains WebStorm (Paid, Licensed)
-  - A lightweight yet powerful JavaScript IDE, perfectly equipped for client-side development and server-side development with Node.js.
-  - Great TypeScript support!
-  - @ https://www.jetbrains.com/webstorm/
-  
-- Sublime Text (Paid, Licensed)
-  - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
-  - @ https://www.sublimetext.com/
 
 # Programming: Apache Cordova
 
@@ -352,6 +332,26 @@ A curated list of awesome things related to HTML5 Game Development
   - @ http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
 - Installation Notes: 
 
+### Code Editors
+
+- Atom Editor (Free, Open-source)
+  - A hackable text editor.
+  - @ https://atom.io/
+  - @ https://atom.io/packages
+  - @ https://atom.io/themes
+
+- Notepad ++ (Free, Open-source)
+  - A minimal / open-source text editor.
+  - @ https://notepad-plus-plus.org/download/
+
+- JetBrains WebStorm (Paid, Licensed)
+  - A lightweight yet powerful JavaScript IDE, perfectly equipped for client-side development and server-side development with Node.js.
+  - Great TypeScript support!
+  - @ https://www.jetbrains.com/webstorm/
+  
+- Sublime Text (Paid, Licensed)
+  - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+  - @ https://www.sublimetext.com/
 
 ### Miscellaneous Links
 - cordova, crosswalk, etc
