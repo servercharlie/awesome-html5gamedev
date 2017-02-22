@@ -297,7 +297,9 @@ A curated list of awesome things related to HTML5 Game Development
 - **The ideal / recommended way is to _use crosswalk as a WebView plugin_ in your cordova project.**
   - Check out the link below for the quick guide!
   - @ https://crosswalk-project.org/documentation/cordova.html
-- *Note that the same workflow / plugin process is also possible if you've created your cordova project in Visual Studio*
+  - *Note that the same workflow / plugin process is also possible if you've created your cordova project in Visual Studio*
+- However, if you don't wanna go the cordova way (very messy, imho)..
+  - https://crosswalk-project.org/documentation/getting_started.html
 
 # Programming: Cheatsheets
 
