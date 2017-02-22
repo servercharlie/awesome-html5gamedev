@@ -259,6 +259,15 @@ A curated list of awesome things related to HTML5 Game Development
 # Programming: CrossWalk
 
 ### What the f*ck is CrossWalk?
+- The CrossWalk enables you to use the most advanced web innovations in your Android and Cordova apps.
+
+| HTML5 feature 	| Without the Crosswalk Project | With the Crosswalk Project	|
+|:---------------------------------------------------------------------------------:|
+| WebRTC			| Nope 							| Yup 							|
+| WebGL 			| Nope 							| Yup 							|
+| Vibration API		| Nope 							| Yup 							|
+| Presentation API 	| Nope 							| Yup 							|		
+| WebView Updates 	| Nope 							| Yup 							|
 
 ### Okay, how do I use it?
 
