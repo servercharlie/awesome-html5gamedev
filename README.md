@@ -201,14 +201,6 @@ A curated list of awesome things related to HTML5 Game Development
 <hr/>
 
 
-# Programming: Version Control
-
-### Git
-- @ https://git-scm.com/downloads
-  
-### SourceTree
-- 
-
 
 
 
@@ -340,6 +332,12 @@ A curated list of awesome things related to HTML5 Game Development
   - You might have to set the following environment variables
     - JAVA_HOME, set to **your-SDK-directory**
 	- PATH, add **your-SDK-directory_\bin_**
+	
+### Version Control
+- GIT
+  - @ https://git-scm.com/downloads
+- SourceTree
+  - @ https://www.sourcetreeapp.com/
 
 ### Code Editors
 
