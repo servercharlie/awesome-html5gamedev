@@ -51,18 +51,38 @@ A curated list of awesome things related to HTML5 Game Development
 
 ### Game Platforms
 - **_What are the types of platforms?_**
-  - Generally Desktop, Mobile(Smartphone & Tablets) & Browser.
-  - Ambitious people also aim for console platforms, too.
+  - Desktop (Windows, Mac, Linux)
+  - Smartphones, and Tablets (Android, iOS, Windows Phone, etc.)
+  - Desktop Browsers (Chrome, Firefox, Safari, Opera, Internet Explorer & Edge)
+  - Consoles, such as Xbox One, PS4, Wii U, 3DS, etc.
 
-- **_What else matters?_**
-  - Supported platform versions, ie: different versions of iOS and Android (nougat, kitkat, ice cream sandwich, etc etc.).
+- **_Supported platform versions_**
+  - Ask yourself, do you want your game to run only in new versions of iOS and Android, or also on older versions?
+  
+- **_Canvas or WebGL in platforms_**
+  - In the case of HTML5 games, you'll want to maximize the experience given the platform your users are using. Can your target platform support WebGL without sacrificing gameplay / playability?
 
 ### Game Output
-- **_??_**
-  - Screen sizes for different devices, frames per second, are you using canvas / webGL, etc etc.
+- **_Screen sizes_**
+  - Different devices have different screen dimensions / width-height ratio.
+  
+- **_Pixels per inch_**
+  - This matters greatly for smartphones and tablets.
+  
+- **_Frames per second_**
+  - As much as possible you wanna be running around 60 fps.
+  - Anything else lower than that = poor gaming experience.
+  
 - **_WebGL or Canvas?_**
   - If you're simply aiming for desktop & browser, take advantage of WebGL if you can!
-  - If you're aiming for smartphone / mobile / tablet support, and worried about platform compatibility.. Canvas is the way to go! ( *Note: It varies greatly though, since sometimes you _may_ want to take advantage of WebGL, too, ie: w/ CrossWalk* )
+  - If you're aiming for smartphone / mobile / tablet support, and worried about platform compatibility.. Canvas is the way to go! (*Note: It varies greatly though, since sometimes you may want to take advantage of WebGL, too, ie: w/ CrossWalk*)
+  
+- **_Music & Sound Effects_**
+  - ...
+  
+- **_Others_**
+  - Is it portrait / landscape?
+  - Does your game use vibrations?
 
 ### Game Input
 - **_??_**
