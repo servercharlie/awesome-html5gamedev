@@ -221,6 +221,15 @@ A curated list of awesome things related to HTML5 Game Development
   
 - Sublime Text
 
+# Programming: Cordova
+
+### What the f*ck is Cordova?
+
+### Using Cordova & Visual Studio to build Android & iOS Apps
+- @ https://weblog.west-wind.com/posts/2015/jan/06/using-cordova-and-visual-studio-to-build-ios-mobile-apps#iOSsupportisExcellent
+- @ https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/
+- @ https://taco.visualstudio.com/en-us/docs/tutorial-package-publish-readme/
+
 # Programming: Cheatsheets
 
 ### Android Codenames, Tags, and Build Numbers
