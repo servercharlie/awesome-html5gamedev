@@ -260,15 +260,12 @@ A curated list of awesome things related to HTML5 Game Development
 
 ### What the f*ck is CrossWalk?
 - The CrossWalk enables you to use the most advanced web innovations in your Android and Cordova apps.
-- Simply put, if you want to harness the power of WebGL (and helluva bunch of other features), use CrossWalk!
-
 - From the crosswalk-project.org homepage:
   - **Include the Crosswalk Project web runtime with your hybrid Android or Cordova / PhoneGap app, and users will consistently see it through a predictable, powerful WebView based on _Google Chromium_.**
   - Get consistent, predictable behavior by reducing Android device fragmentation.
   - Use the latest web innovations and APIs. Provide a feature rich experience on all Android 4.0+ devices.
   - Easily debug with Chrome DevTools.
   - Improve the performance of your HTML, CSS, and JavaScript.
-
 
 |HTML5 feature|Without the Crosswalk Project|With the Crosswalk Project|
 |:-----------------:|:----:|:---:|
@@ -278,7 +275,13 @@ A curated list of awesome things related to HTML5 Game Development
 | Presentation API 	| Nope | Yup |		
 | WebView Updates 	| Nope | Yup |
 
+- Simply put, if you want to harness the power of WebGL (and helluva bunch of other features), use CrossWalk!
+
 ### Okay, how do I use it?
+- **The ideal / recommended way is to _use crosswalk as a WebView plugin_ in your cordova project.**
+  - Check out the link below for the quick guide!
+  - @ https://crosswalk-project.org/documentation/cordova.html
+- *Note that the same workflow / plugin process is also possible if you've created your cordova project in Visual Studio*
 
 # Programming: Cheatsheets
 
