@@ -328,7 +328,7 @@ A curated list of awesome things related to HTML5 Game Development
 - @ https://www.statista.com/statistics/247411/cost-per-installation-android-ios-worldwide/
 
 
-# Programming: Links To Tools, Development Kits, Runtimes, Etc.
+# Programming: Tools, Development Kits, Runtimes, Etc.
 
 ### Android Studio
 - Android Studio Latest
