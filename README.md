@@ -314,13 +314,19 @@ A curated list of awesome things related to HTML5 Game Development
 - Android Studio Latest
   - https://developer.android.com/studio/index.html
 - Installation Notes: 
-  - Android SDK's, etc.
+  - You might have to set the following environment variables
+    - ANDROID_HOME, set to **_your-ANDROID-SDK-directory_**
+    - ADT_HOME, set to **_your-ANDROID-SDK-directory_**
+	- PATH, add **your-ANDROID-SDK-directory**
 
 ### Apache Ant 
 - Ant Build Tool Binaries
   - @ http://www.apache.org/dist/ant/binaries/
   - *Simply get a _ZIP_ file of the latest (or a known version that works), then extract it to a local directory.*
 - Installation Notes: 
+  - You might have to set the following environment variables
+    - ANT_HOME, set to **_your-Ant-directory_**
+	- PATH, add **your-Ant-directory_\bin_**
 
 ### Java Development Kit (JDK) & Java Runtime Environment (JRE)
 - JDK Latest Versions
@@ -331,6 +337,9 @@ A curated list of awesome things related to HTML5 Game Development
 - Old Version Archive (v7 & earlier)
   - @ http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
 - Installation Notes: 
+  - You might have to set the following environment variables
+    - JAVA_HOME, set to **_your-SDK-directory_**
+	- PATH, add **your-SDK-directory_\bin_**
 
 ### Code Editors
 
