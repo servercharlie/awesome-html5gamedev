@@ -195,6 +195,32 @@ A curated list of awesome things related to HTML5 Game Development
   
 - Sublime Text
 
+# Programming: Cheatsheets
+
+### Android Codenames, Tags, and Build Numbers
+- At a high level, Android development happens around families of releases, which use code names ordered alphabetically after tasty treats.
+- In this document: Platform Codenames, Versions, API Levels, and NDK Releases
+- @ https://source.android.com/source/build-numbers.html
+
+# Programming: Useful Statistics
+
+### Market share held by the leading internet browsers in Europe from January 2012 to January 2017
+- This statistic displays the market share, or the share of internet users in Europe who used different browsers to access the web from January 2015 to January 2017. As of November 2016, Chrome had a 50.49 percent share of the European market.
+- @ https://www.statista.com/statistics/269881/market-share-held-by-internet-browsers-in-europe/
+
+
+### Mobile OS Fragmentation (as of June 2016)
+- This chart shows the percentage of iOS and Android devices running the most recent versions of the two operating systems in June 2016.
+- @ https://www.statista.com/chart/5118/mobile-os-fragmentation/
+
+### Mobile Payment Volume Increase (projection, from 2015 to 2021) 
+- This chart shows the estimated growth in mobile payment transaction volume in the U.S.
+- @ https://www.statista.com/chart/7793/mobile-payment-transaction-volume/
+
+### Average cost per installation (CPI) for Android and iOS apps worldwide as of February 2017 (in U.S. dollars)
+- This statistic gives information on the average cost per installation (CPI) for Android and iOS apps worldwide as of February 2017. During the measured period, the average CPI for an Android app was 0.44 U.S. dollars.
+- @ https://www.statista.com/statistics/247411/cost-per-installation-android-ios-worldwide/
+
 ### Miscellaneous Links
 - cordova, crosswalk, etc
 - monetizing
@@ -230,5 +256,6 @@ A curated list of awesome things related to HTML5 Game Development
  - game assets
     - free and paid
  - cover use of browserify, babel with preset-env and uglify js w/ mangle and compress
+ - 
 	
 git add -A && git commit -m "Update Readme.md" && git push -u origin master
