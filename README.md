@@ -236,6 +236,7 @@ A curated list of awesome things related to HTML5 Game Development
 - Note that cordova also allows you to utilize "cordova plugins", which gives you a javascript API for the native side of your mobile platforms. Ie: Allow your mobile app to access the internet, save a file, etc etc.
 
 ### Using Cordova & Visual Studio to build Android & iOS Apps
+- @ https://cordova.apache.org/
 - @ https://weblog.west-wind.com/posts/2015/jan/06/using-cordova-and-visual-studio-to-build-ios-mobile-apps#iOSsupportisExcellent
 - @ https://taco.visualstudio.com/en-us/docs/install-vs-tools-apache-cordova/
 - @ https://taco.visualstudio.com/en-us/docs/tutorial-package-publish-readme/
@@ -281,7 +282,9 @@ A curated list of awesome things related to HTML5 Game Development
 | Row Test      | 
 
 
-### drafted / to-include
+
+
+# Drafted / To-Include
 - books
 - twitter
 - youtube channels
