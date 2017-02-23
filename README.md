@@ -228,7 +228,7 @@ A curated list of awesome things related to HTML5 Game Development
 - @ https://taco.visualstudio.com/en-us/docs/tutorial-package-publish-readme/
 
 ### Common Solutions to Errors (in building w/ Visual Studio)
-- Android Studio Directory
+- Environment Variables
   - ANDROID_HOME should be set to Android SDK directory. *ie: C:\AndroidStudioSDK*
   - ADT_HOME should be set to Android SDK directory. *ie: C:\AndroidStudioSDK*
   - ANT_HOME should be your Ant's directory. *ie: C:\Ant*
