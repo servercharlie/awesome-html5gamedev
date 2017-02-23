@@ -405,7 +405,13 @@ A curated list of awesome things related to HTML5 Game Development
   - https://xcloud.me/
   - http://www.macincloud.com/
   - https://feedback.azure.com/forums/216843-virtual-machines/suggestions/13826655-mac-os-x-virtual-machines
-
+- About game networking 
+  - create a concise table that sums up trade-offs between udp and tcp.
+  - another table, where running javascript in browser = tcp only. and with nodejs, 
+    - javascript browser clients = tcp only 
+	- javascript desktop cleints (w/ Electron and Node Webkit) = tcp & udp 
+	- javascript servers (in NodeJS) = tcp & udp.
+  
 # Other ideas 
 
 - Turn servercharlie.github.io into an examples directory.
