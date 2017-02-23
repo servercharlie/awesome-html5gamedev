@@ -84,18 +84,17 @@ A curated list of awesome things related to HTML5 Game Development
   - If you're aiming for smartphone / mobile / tablet support, and worried about platform compatibility.. Canvas is the way to go! (*Note: It varies greatly though, since sometimes you may want to take advantage of WebGL, too, ie: w/ CrossWalk*)
   
 - **_Music & Sound Effects_**
-  - ...
-  
+
 - **_Others_**
   - Is it portrait / landscape?
   - Does your game use vibrations?
 
 ### Game Input
-- **_??_**
-  - Keyboard & Mouse
-  - Screen touch gestures like taps, swipes, pinch, shake, etc.
-  - Gamepads / Controllers
-  
+- **_Keyboard_**
+- **_Mouse_**
+- **_Screen Touch Gestures_**
+  - Like taps, swipes, pinch, shake, etc.
+- **_Gamepads & Controllers_**  
   
 ### Game Networking
 
@@ -373,9 +372,9 @@ A curated list of awesome things related to HTML5 Game Development
 
 
 
-# Drafted / To-Include
-- books
-- twitter
+# Drafted / To-Includes
+- links to books ie truevalhalla
+- twitter 
 - youtube channels
 - 0fps series
 - https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/
@@ -406,5 +405,22 @@ A curated list of awesome things related to HTML5 Game Development
   - https://xcloud.me/
   - http://www.macincloud.com/
   - https://feedback.azure.com/forums/216843-virtual-machines/suggestions/13826655-mac-os-x-virtual-machines
-	
+
+# Other ideas 
+
+- Turn servercharlie.github.io into an examples directory.
+- People can submit pull requests of their examples saved in a directory.
+- servercharlie.github.io/pixi-examples/
+  - list of examples.
+- servercharlie.github.io/pixi-examples/example1.html
+  - sample example, demonstrating use of interactivity.
+  - also displays the used code.
+  
+# Similar game-dev related repositories
+
+- https://github.com/ummahusla/HTML5-Game-Development
+- https://github.com/leereilly/games
+- https://github.com/mbrukman/awesome-gamedev
+- https://github.com/DaRaFF/jsgamewiki
+  
 git add -A && git commit -m "Update Readme.md" && git push -u origin master
