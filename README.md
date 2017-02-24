@@ -309,7 +309,7 @@ A curated list of awesome things related to HTML5 Game Development
 - Installation Notes: 
   - You might have to set the following environment variables
     - ANT_HOME, set to **your-Ant-directory**
-	- PATH, add **your-Ant-directory_\bin_**
+	- PATH, add **your-Ant-directory\bin**
 
 ### Java Development Kit (JDK) & Java Runtime Environment (JRE)
 - JDK Latest Versions
@@ -323,7 +323,7 @@ A curated list of awesome things related to HTML5 Game Development
   - You might have to set the following environment variables
     - JAVA_HOME, set to **your-SDK-directory**
     - _JAVA_OPTIONS, set to **-Xmx512M**
-	- PATH, add **your-SDK-directory_\bin_**
+	- PATH, add **your-SDK-directory\bin**
   - Furthermore, to prevent conflict make sure your installed JDK's version matches with your JRE version.
 	
 ### Version Control
