@@ -175,7 +175,11 @@ A curated list of awesome things related to HTML5 Game Development
 - @ https://hammerjs.github.io/
 - @ https://github.com/hammerjs/hammer.js
 
-
+### KeypressJS
+- Keypress is an input capture library with some very special features, it is easy to pick up and use, has a reasonable footprint (~9kb), and has no dependencies.
+- Fire on KeyUp, KeyDown
+- Do combos, like "down left x"
+- @ https://dmauro.github.io/Keypress/
 
 # Javascript: Creating Desktop Apps
 
