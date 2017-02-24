@@ -41,28 +41,20 @@ A curated list of awesome things related to HTML5 Game Development
 
 # All About Games
 
-### Game Types
-- test
-- test 
-  - test
-
 ### Game Genres
+- A video game genre is a specific category of games related by a similar gameplay characteristic. Genres are not usually defined by the actual content of the game or its medium of play, but by its common challenge.
+- @ https://en.wikipedia.org/wiki/List_of_video_game_genres
 
-
-### Game Engines, Renderer Engines
-
-
-### Physics
-
+### Game Engines, Programming Language, etc.
 
 ### Game Platforms
-- **_What are the types of platforms?_**
+- **_There are various platforms you can choose your game to run on_**
   - Desktop (Windows, Mac, Linux)
   - Smartphones, and Tablets (Android, iOS, Windows Phone, etc.)
   - Desktop Browsers (Chrome, Firefox, Safari, Opera, Internet Explorer & Edge)
   - Consoles, such as Xbox One, Xbox 360, PS3, PS4, PS Vita, Wii U, New 3DS, etc.
 
-- **_Supported platform versions_**
+- **_Platform version support matters_**
   - Ask yourself, do you want your game to run only in new versions of iOS and Android, or also on older versions?
   
 - **_Canvas or WebGL in platforms_**
