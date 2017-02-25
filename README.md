@@ -356,6 +356,17 @@ A curated list of awesome things related to HTML5 Game Development
 - Sublime Text (Paid, Licensed)
   - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
   - @ https://www.sublimetext.com/
+  
+### Terminals
+
+- Hyper
+  - JS/HTML/CSS powered, highly extensible / customizable terminal.
+  - @ https://hyper.is/
+  
+- CMDER
+  - Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows. It is based on amazing software, and spiced up with the Monokai color scheme and a custom prompt layout, looking sexy from the start.
+  - Allows multiple terminals opened.
+  - @ http://cmder.net/
 
 ### Miscellaneous Links
 - cordova, crosswalk, etc
