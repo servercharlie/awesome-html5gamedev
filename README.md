@@ -31,13 +31,21 @@ A curated list of awesome things related to HTML5 Game Development
 ### Game Developer Tools
 - Spritesheets / Texture Management
   - Spritesheet Packer (Free / Open-source)
+    - Download here @ https://github.com/amakaseev/sprite-sheet-packer/releases
+	  - *For the 32-bit windows version, use SpriteSheetPacker-Installer_32b.exe*
+	- GitHub repo @ https://github.com/amakaseev/sprite-sheet-packer
+    - Dev thread @ http://www.html5gamedevs.com/topic/26908-open-source-spritesheet-packer-with-gui/
+  - TexturePacker (Paid, $40)
     - Supported Formats: 
-	- @ 
-  - TexturePacker (Paid)
-    - Supported Formats: 
-	- @ 
+	- @ https://www.codeandweb.com/texturepacker
 
 ### General Developer Tools
+
+<br/>
+<br/>
+<hr/>
+<br/>
+<br/>
 
 # All About Games
 
@@ -101,8 +109,12 @@ A curated list of awesome things related to HTML5 Game Development
   - @ https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/
   - @ https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/
   - @ https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/
-
+  
+<br/>
+<br/>
 <hr/>
+<br/>
+<br/>
 
 
 # Javascript: Learning The Language
