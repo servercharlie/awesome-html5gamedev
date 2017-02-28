@@ -380,6 +380,24 @@ A curated list of awesome things related to HTML5 Game Development
   - Allows multiple terminals opened.
   - @ http://cmder.net/
 
+
+<br/>
+<br/>
+<hr/>
+<br/>
+<br/>
+
+# Useful Gists
+
+- Proper Socket.IO Latency Checking
+  - @ https://gist.github.com/servercharlie/f3c85dbbfa8308e83257dc2ee31cd7cc
+
+<br/>
+<br/>
+<hr/>
+<br/>
+<br/>
+
 ### Miscellaneous Links
 - cordova, crosswalk, etc
 - monetizing
