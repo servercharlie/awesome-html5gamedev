@@ -391,6 +391,8 @@ A curated list of awesome things related to HTML5 Game Development
 
 - Proper Socket.IO Latency Checking
   - @ https://gist.github.com/servercharlie/f3c85dbbfa8308e83257dc2ee31cd7cc
+- Proper PIXI window resizing, w/ jQuery.
+  - @ https://gist.github.com/servercharlie/efa6eea2493fdd35d3192ec3066819c5
 
 <br/>
 <br/>
